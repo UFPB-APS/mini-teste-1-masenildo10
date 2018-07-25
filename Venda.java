@@ -4,7 +4,8 @@ public class Venda {
     private ItemVenda[] itens = new ItemVenda[10];
     private String estadoDoCliente;
     private double total;
-    
+  
+        
     public ItemVenda[] getItens() {
         return this.itens;
     }
